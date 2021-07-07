@@ -1,0 +1,65 @@
+
+INSERT INTO users VALUES (1, "bob", 1);
+INSERT INTO users VALUES (2, "mary", 2);
+INSERT INTO users VALUES (3, "joe", 3);
+INSERT INTO users VALUES (4,"steve", 6);
+INSERT INTO users VALUES (5, "jermery", 9);
+INSERT INTO users VALUES (6, "anthony", 12);
+INSERT INTO users VALUES (7, "ace", 32);
+INSERT INTO users VALUES (8, "eve", 29);
+INSERT INTO users VALUES (9, "ben", 35);
+INSERT INTO users VALUES (10, "frank", 38);
+INSERT INTO users VALUES (11, "branden", 28);
+INSERT INTO users VALUES (12, "katie", 104);
+INSERT INTO users VALUES (13, 'victoria', 56);
+INSERT INTO users VALUES (14, "helen", 82);
+INSERT INTO users VALUES (15, "john", 85);
+INSERT INTO users VALUES (16, "junior", 58);
+INSERT INTO users VALUES (17, "erin", 28);
+INSERT INTO users VALUES (18, "johnny", 27);
+INSERT INTO users VALUES (19, "ryan", 24);
+INSERT INTO users VALUES (20, "bobest", 99);
+
+
+INSERT INTO projects VALUES (1,"plant stand", "creater", 100.00, "today", "tomorrow");
+INSERT INTO projects VALUES (2, "knife", "things", 60.00, "1/10", "2/4");
+INSERT INTO projects VALUES (3,"playdough", "kidstuff", 2.00 , "meh", "whenever");
+INSERT INTO projects VALUES (4, "jewlery", "girly things", 1000.00, "we will see", "never");
+INSERT INTO projects VALUES (5, "wallet", "man stuff", 50.00, "12/20", '12/24');
+INSERT INTO projects VALUES (6, "blah balh blah", "whatever", 1.50, "today", "yesterday");
+INSERT INTO projects VALUES (7,"i hate this", "enough is enough", 2.50, "1/4", '1/5');
+INSERT INTO projects VALUES (8, "anvil", "very heavy", 1500.50, "3/14", "4/10");
+INSERT INTO projects VALUES (9, "giggles", "happieness", 250.25, "4/5", "5/25");
+INSERT INTO projects VALUES (10, "bug away", "so many bugs", 50.50, "2525", "2526");
+
+
+INSERT INTO pledges VALUES (1, 1.00, "bob", "stuff");
+INSERT INTO pledges VALUES (2, 1.00, "bob", "stuff");
+INSERT INTO pledges VALUES (3, 1.00, "bob", "stuff");
+INSERT INTO pledges VALUES (4, 1.00, "mary", "stuff");
+INSERT INTO pledges VALUES (5, 1.00, "mary", "stuff");
+INSERT INTO pledges VALUES (6, 1.00, "mary", "stuff");
+INSERT INTO pledges VALUES (7, 1.00, "mary", "stuff");
+INSERT INTO pledges VALUES (8, 1.00, "mary", "stuff");
+INSERT INTO pledges VALUES (9, 1.00, "ace", "stuff");
+INSERT INTO pledges VALUES (10, 1.00, "ace", "stuff");
+INSERT INTO pledges VALUES (11, 1.00, "ace", "stuff");
+INSERT INTO pledges VALUES (12, 1.00, "ace", "stuff");
+INSERT INTO pledges VALUES (13, 1.00, "eve", "stuff");
+INSERT INTO pledges VALUES (14, 1.00, "eve", "stuff");
+INSERT INTO pledges VALUES (15, 1.00, "eve", "stuff");
+INSERT INTO pledges VALUES (16, 1.00, "john", "stuff");
+INSERT INTO pledges VALUES (17, 1.00, "john", "stuff");
+INSERT INTO pledges VALUES (18, 1.00, "helen", "stuff");
+INSERT INTO pledges VALUES (19, 1.00, "helen", "stuff");
+INSERT INTO pledges VALUES (20, 1.00, "helen", "stuff");
+INSERT INTO pledges VALUES (21, 1.00, "helen", "stuff");
+INSERT INTO pledges VALUES (22, 1.00, "helen", "stuff");
+INSERT INTO pledges VALUES (23, 1.00, "helen", "stuff");
+INSERT INTO pledges VALUES (24, 1.00, "erin", "stuff");
+INSERT INTO pledges VALUES (25, 1.00, "ben", "stuff");
+INSERT INTO pledges VALUES (26, 1.00, "ben", "stuff");
+INSERT INTO pledges VALUES (27, 1.00, "frank", "stuff");
+INSERT INTO pledges VALUES (28, 1.00, "frank", "stuff");
+INSERT INTO pledges VALUES (29, 1.00, "steve", "stuff");
+INSERT INTO pledges VALUES (30, 1.00, "steve", "stuff");
